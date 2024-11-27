@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\VirtualPet.Display\VirtualPet.Display.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="LinePutScript" Version="1.11.8" />
+    </ItemGroup>
+
+</Project>

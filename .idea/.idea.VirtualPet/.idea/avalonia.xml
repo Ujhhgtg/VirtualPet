@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="VirtualPet.Display/App.axaml" value="VirtualPet.Display/VirtualPet.Display.csproj" />
+        <entry key="VirtualPet.Display/MainWindow.axaml" value="VirtualPet.Display/VirtualPet.Display.csproj" />
+        <entry key="VirtualPet.Manager.GuiAvalonia/App.axaml" value="VirtualPet.Manager.GuiAvalonia/VirtualPet.Manager.GuiAvalonia.csproj" />
+        <entry key="VirtualPet.Manager.GuiAvalonia/MainWindow.axaml" value="VirtualPet.Manager.GuiAvalonia/VirtualPet.Manager.GuiAvalonia.csproj" />
+        <entry key="VirtualPet/MainWindow.axaml" value="VirtualPet/VirtualPet.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
